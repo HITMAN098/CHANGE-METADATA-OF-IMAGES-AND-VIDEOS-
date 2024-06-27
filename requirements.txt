@@ -1,0 +1,11 @@
+# Requirements for CHANGE-METADATA-OF-IMAGES-AND-VIDEOS
+
+# Python version
+python_version >= 3.6
+
+# Libraries
+exifread==2.3.2
+hachoir==3.1.0
+hachoir-core==3.1.0
+hachoir-metadata==3.1.0
+hachoir-parser==3.1.0
