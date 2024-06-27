@@ -26,7 +26,6 @@ Run the script:
 
 python rename_and_update_metadata.py
 
-Check the output directory for renamed files with updated metadata.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
