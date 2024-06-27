@@ -12,7 +12,9 @@ Installation
 Clone the repository:
 
 git clone https://github.com/HITMAN098/CHANGE-METADATA-OF-IMAGES-AND-VIDEOS.git
+
 cd CHANGE-METADATA-OF-IMAGES-AND-VIDEOS
+
 Install dependencies:
 
 pip install -r requirements.txt
